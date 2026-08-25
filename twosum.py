@@ -9,4 +9,7 @@ class Solution(object):
             for j in range(i + 1, len(nums)):
                 if nums[i] + nums[j] == target:
                     return [i, j]
+<<<<<<< HEAD
         
+=======
+>>>>>>> 55cb7f7e0e95798aff55bac5761a59abac498541
